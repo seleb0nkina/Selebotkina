@@ -1,0 +1,286 @@
+2022-12-26T23:54:11.292994+0300 INFO command start from: 657162940
+2022-12-26T23:55:21.437293+0300 INFO command start from: 657162940
+2022-12-26T23:58:36.367076+0300 INFO command start from: 657162940
+2022-12-26T23:58:42.722660+0300 INFO save photo from: 657162940 size = 27682 size_x = 720 size_y = 352
+2022-12-27T00:00:57.622691+0300 INFO command start from: id = 657162940
+2022-12-27T00:01:03.126874+0300 INFO save photo from: id = 657162940 size = 27682 size_x = 720 size_y = 352
+2022-12-27T00:01:08.791863+0300 INFO text_recognition from: id = 657162940
+2022-12-27T00:11:59.788461+0300 INFO command start from: id = 657162940
+2022-12-27T00:12:32.433820+0300 INFO save photo from: id = 657162940 size = 85174 size_x = 720 size_y = 352
+2022-12-27T00:13:23.593754+0300 INFO command start from: id = 657162940
+2022-12-27T00:13:32.688675+0300 INFO save photo from: id = 657162940 size = 63316 size_x = 576 size_y = 1280
+2022-12-27T00:14:16.534755+0300 INFO command start from: id = 657162940
+2022-12-27T00:14:24.721598+0300 INFO save photo from: id = 657162940 size = 26813 size_x = 720 size_y = 788
+2022-12-27T00:14:31.671616+0300 INFO Result wrote into content/657162940.txt
+2022-12-27T00:14:31.671616+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:15:16.102130+0300 INFO download from: id = 657162940
+2022-12-27T00:21:09.068738+0300 INFO command start from: id = 657162940
+2022-12-27T00:21:09.068738+0300 INFO command start from: id = 657162940
+2022-12-27T00:21:21.700622+0300 INFO save photo from: id = 657162940 size = 50691 size_x = 720 size_y = 380
+2022-12-27T00:21:21.700622+0300 INFO save photo from: id = 657162940 size = 50691 size_x = 720 size_y = 380
+2022-12-27T00:21:45.287868+0300 INFO command start from: id = 657162940
+2022-12-27T00:21:45.287868+0300 INFO command start from: id = 657162940
+2022-12-27T00:21:55.039932+0300 INFO save photo from: id = 657162940 size = 33505 size_x = 720 size_y = 581
+2022-12-27T00:21:55.039932+0300 INFO save photo from: id = 657162940 size = 33505 size_x = 720 size_y = 581
+2022-12-27T00:22:01.687616+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:22:01.687616+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:23:11.905969+0300 INFO command start from: id = 657162940
+2022-12-27T00:23:11.905969+0300 INFO command start from: id = 657162940
+2022-12-27T00:23:17.218842+0300 INFO command start from: id = 657162940
+2022-12-27T00:23:17.218842+0300 INFO command start from: id = 657162940
+2022-12-27T00:23:43.050898+0300 INFO command start from: id = 657162940
+2022-12-27T00:23:43.050898+0300 INFO command start from: id = 657162940
+2022-12-27T00:23:52.816589+0300 INFO save photo from: id = 657162940 size = 23980 size_x = 720 size_y = 370
+2022-12-27T00:23:52.816589+0300 INFO save photo from: id = 657162940 size = 23980 size_x = 720 size_y = 370
+2022-12-27T00:23:58.887919+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:23:58.887919+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:24:01.865401+0300 INFO download from: id = 657162940
+2022-12-27T00:24:01.865401+0300 INFO download from: id = 657162940
+2022-12-27T00:24:04.052147+0300 ERROR list index out of range
+2022-12-27T00:24:04.052147+0300 ERROR list index out of range
+2022-12-27T00:25:44.837441+0300 INFO command start from: id = 657162940
+2022-12-27T00:25:44.837441+0300 INFO command start from: id = 657162940
+2022-12-27T00:25:53.153033+0300 INFO save photo from: id = 657162940 size = 33444 size_x = 720 size_y = 312
+2022-12-27T00:25:53.153033+0300 INFO save photo from: id = 657162940 size = 33444 size_x = 720 size_y = 312
+2022-12-27T00:25:59.244353+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:25:59.244353+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:26:03.317734+0300 INFO download from: id = 657162940
+2022-12-27T00:26:03.317734+0300 INFO download from: id = 657162940
+2022-12-27T00:26:03.450436+0300 INFO 3
+2022-12-27T00:26:03.450436+0300 INFO 3
+2022-12-27T00:26:04.586391+0300 ERROR list index out of range
+2022-12-27T00:26:04.586391+0300 ERROR list index out of range
+2022-12-27T00:28:08.447697+0300 INFO command start from: id = 657162940
+2022-12-27T00:28:08.447697+0300 INFO command start from: id = 657162940
+2022-12-27T00:28:13.935954+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:28:13.935954+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:28:19.964626+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:28:19.964626+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:28:21.240849+0300 INFO download from: id = 657162940
+2022-12-27T00:28:21.240849+0300 INFO download from: id = 657162940
+2022-12-27T00:28:21.322167+0300 INFO 3
+2022-12-27T00:28:21.322167+0300 INFO 3
+2022-12-27T00:28:22.389741+0300 ERROR list index out of range
+2022-12-27T00:28:22.389741+0300 ERROR list index out of range
+2022-12-27T00:29:39.677064+0300 INFO command start from: id = 657162940
+2022-12-27T00:29:39.677064+0300 INFO command start from: id = 657162940
+2022-12-27T00:29:44.477947+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:29:44.477947+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:29:50.532899+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:29:50.532899+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:29:52.047866+0300 INFO download from: id = 657162940
+2022-12-27T00:29:52.047866+0300 INFO download from: id = 657162940
+2022-12-27T00:29:52.127968+0300 INFO 3
+2022-12-27T00:29:52.127968+0300 INFO 3
+2022-12-27T00:29:53.246678+0300 ERROR list index out of range
+2022-12-27T00:29:53.246678+0300 ERROR list index out of range
+2022-12-27T00:30:10.538934+0300 INFO command start from: id = 657162940
+2022-12-27T00:30:10.538934+0300 INFO command start from: id = 657162940
+2022-12-27T00:30:14.104966+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:30:14.104966+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:30:19.871681+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:30:19.871681+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:30:21.187492+0300 INFO download from: id = 657162940
+2022-12-27T00:30:21.187492+0300 INFO download from: id = 657162940
+2022-12-27T00:30:21.274493+0300 INFO 3
+2022-12-27T00:30:21.274493+0300 INFO 3
+2022-12-27T00:31:04.183321+0300 INFO command start from: id = 657162940
+2022-12-27T00:31:04.183321+0300 INFO command start from: id = 657162940
+2022-12-27T00:31:08.657852+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:31:08.657852+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:31:14.711767+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:31:14.711767+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:31:25.216493+0300 INFO download from: id = 657162940
+2022-12-27T00:31:25.216493+0300 INFO download from: id = 657162940
+2022-12-27T00:34:11.365317+0300 INFO command start from: id = 657162940
+2022-12-27T00:34:11.365317+0300 INFO command start from: id = 657162940
+2022-12-27T00:34:16.715940+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:34:16.715940+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:34:22.795116+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:34:22.795116+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:34:24.208883+0300 INFO download from: id = 657162940
+2022-12-27T00:34:24.208883+0300 INFO download from: id = 657162940
+2022-12-27T00:34:24.796866+0300 ERROR '>' not supported between instances of 'list' and 'int'
+2022-12-27T00:34:24.796866+0300 ERROR '>' not supported between instances of 'list' and 'int'
+2022-12-27T00:34:25.087003+0300 ERROR '>' not supported between instances of 'list' and 'int'
+2022-12-27T00:34:25.087003+0300 ERROR '>' not supported between instances of 'list' and 'int'
+2022-12-27T00:34:25.689980+0300 ERROR '>' not supported between instances of 'list' and 'int'
+2022-12-27T00:34:25.689980+0300 ERROR '>' not supported between instances of 'list' and 'int'
+2022-12-27T00:35:20.101229+0300 INFO command start from: id = 657162940
+2022-12-27T00:35:20.101229+0300 INFO command start from: id = 657162940
+2022-12-27T00:35:24.280355+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:35:24.280355+0300 INFO save photo from: id = 657162940 size = 33407 size_x = 720 size_y = 379
+2022-12-27T00:35:30.103019+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:35:30.103019+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:35:32.373544+0300 INFO download from: id = 657162940
+2022-12-27T00:35:32.373544+0300 INFO download from: id = 657162940
+2022-12-27T00:36:09.069019+0300 INFO save photo from: id = 657162940 size = 23991 size_x = 720 size_y = 379
+2022-12-27T00:36:09.069019+0300 INFO save photo from: id = 657162940 size = 23991 size_x = 720 size_y = 379
+2022-12-27T00:36:14.314253+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:36:14.314253+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:37:12.819152+0300 INFO save photo from: id = 657162940 size = 24123 size_x = 576 size_y = 288
+2022-12-27T00:37:12.819152+0300 INFO save photo from: id = 657162940 size = 24123 size_x = 576 size_y = 288
+2022-12-27T00:37:17.748864+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:37:17.748864+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:37:30.507608+0300 INFO save photo from: id = 657162940 size = 23858 size_x = 576 size_y = 276
+2022-12-27T00:37:30.507608+0300 INFO save photo from: id = 657162940 size = 23858 size_x = 576 size_y = 276
+2022-12-27T00:37:35.633325+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:37:35.633325+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:37:58.612316+0300 INFO download from: id = 657162940
+2022-12-27T00:37:58.612316+0300 INFO download from: id = 657162940
+2022-12-27T00:38:03.015123+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:38:03.015123+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:38:05.579948+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:38:05.579948+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:39:24.665776+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:39:24.665776+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:39:30.243058+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:39:30.243058+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:39:32.801880+0300 INFO download from: id = 657162940
+2022-12-27T00:39:32.801880+0300 INFO download from: id = 657162940
+2022-12-27T00:39:37.114107+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:39:37.114107+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:39:39.367731+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:39:39.367731+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:40:59.734800+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:40:59.734800+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:41:05.592424+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:41:05.592424+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:41:07.880502+0300 INFO download from: id = 657162940
+2022-12-27T00:41:07.880502+0300 INFO download from: id = 657162940
+2022-12-27T00:41:10.263320+0300 INFO try to download
+2022-12-27T00:41:10.263320+0300 INFO try to download
+2022-12-27T00:41:12.000282+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:41:12.000282+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:41:13.192115+0300 INFO try to download
+2022-12-27T00:41:13.192115+0300 INFO try to download
+2022-12-27T00:41:14.346391+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:41:14.346391+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:43:33.871785+0300 INFO command start from: id = 657162940
+2022-12-27T00:43:33.871785+0300 INFO command start from: id = 657162940
+2022-12-27T00:43:41.590858+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:43:41.590858+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:43:47.077598+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:43:47.077598+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:43:50.117065+0300 INFO download from: id = 657162940
+2022-12-27T00:43:50.117065+0300 INFO download from: id = 657162940
+2022-12-27T00:43:52.788701+0300 INFO try to download
+2022-12-27T00:43:52.788701+0300 INFO try to download
+2022-12-27T00:43:54.434837+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:43:54.434837+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:43:55.728261+0300 INFO try to download
+2022-12-27T00:43:55.728261+0300 INFO try to download
+2022-12-27T00:43:56.879948+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:43:56.879948+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content\\Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:46:37.123331+0300 INFO command start from: id = 657162940
+2022-12-27T00:46:37.123331+0300 INFO command start from: id = 657162940
+2022-12-27T00:46:40.801044+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:46:40.801044+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:46:47.488489+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:46:47.488489+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:46:50.555109+0300 INFO download from: id = 657162940
+2022-12-27T00:46:50.555109+0300 INFO download from: id = 657162940
+2022-12-27T00:46:53.331784+0300 INFO try to download
+2022-12-27T00:46:53.331784+0300 INFO try to download
+2022-12-27T00:46:55.311681+0300 INFO Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3
+2022-12-27T00:46:55.311681+0300 INFO Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3
+2022-12-27T00:46:55.316775+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content/Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:46:55.316775+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content/Wu-Tang_-_"Biochemical_Equation"_(feat__RZA_&_MF_DOOM)_[Official_Audio].mp3'
+2022-12-27T00:46:56.585579+0300 INFO try to download
+2022-12-27T00:46:56.585579+0300 INFO try to download
+2022-12-27T00:46:57.719646+0300 INFO Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3
+2022-12-27T00:46:57.719646+0300 INFO Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3
+2022-12-27T00:46:57.720676+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content/Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:46:57.720676+0300 ERROR [Errno 22] Invalid argument: 'C:\\Users\\vrite\\Desktop\\Documents\\Работа\\Фриланс\\Боты\\Боты ТГ\\Selebotkina\\content/Wu-Tang_-_"Preservation"_(feat__Aesop_Rock_&_Del_The_Funky_Homosapien)_[Official_Audio].mp3'
+2022-12-27T00:48:10.449226+0300 INFO command start from: id = 657162940
+2022-12-27T00:48:10.449226+0300 INFO command start from: id = 657162940
+2022-12-27T00:48:48.536048+0300 INFO command start from: id = 657162940
+2022-12-27T00:48:48.536048+0300 INFO command start from: id = 657162940
+2022-12-27T00:48:53.279872+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:48:53.279872+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:49:00.128496+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:49:00.128496+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:49:01.845949+0300 INFO download from: id = 657162940
+2022-12-27T00:49:01.845949+0300 INFO download from: id = 657162940
+2022-12-27T00:51:09.596340+0300 INFO command start from: id = 657162940
+2022-12-27T00:51:09.596340+0300 INFO command start from: id = 657162940
+2022-12-27T00:51:13.685427+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:51:13.685427+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:51:18.724276+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:51:18.724276+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:51:20.231806+0300 INFO download from: id = 657162940
+2022-12-27T00:51:20.231806+0300 INFO download from: id = 657162940
+2022-12-27T00:52:21.518563+0300 INFO command start from: id = 657162940
+2022-12-27T00:52:21.518563+0300 INFO command start from: id = 657162940
+2022-12-27T00:52:28.183242+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:52:28.183242+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:52:33.225266+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:52:33.225266+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:52:34.266881+0300 INFO download from: id = 657162940
+2022-12-27T00:52:34.266881+0300 INFO download from: id = 657162940
+2022-12-27T00:53:08.905631+0300 INFO command start from: id = 657162940
+2022-12-27T00:53:08.905631+0300 INFO command start from: id = 657162940
+2022-12-27T00:53:14.818528+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:53:14.818528+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:53:20.192857+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:53:20.192857+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:53:21.326272+0300 INFO download from: id = 657162940
+2022-12-27T00:53:21.326272+0300 INFO download from: id = 657162940
+2022-12-27T00:55:41.512962+0300 INFO command start from: id = 657162940
+2022-12-27T00:55:41.512962+0300 INFO command start from: id = 657162940
+2022-12-27T00:55:46.649057+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:55:46.649057+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:55:51.796805+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:55:51.796805+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:55:53.030413+0300 INFO download from: id = 657162940
+2022-12-27T00:55:53.030413+0300 INFO download from: id = 657162940
+2022-12-27T00:55:58.715370+0300 INFO text_recognition complete from: id = 657162940 filename = content\WuTangBiochemicalEquationfeatRZAMFDOOMOfficialAudio.mp3
+2022-12-27T00:55:58.715370+0300 INFO text_recognition complete from: id = 657162940 filename = content\WuTangBiochemicalEquationfeatRZAMFDOOMOfficialAudio.mp3
+2022-12-27T00:56:02.477944+0300 INFO text_recognition complete from: id = 657162940 filename = content\WuTangPreservationfeatAesopRockDelTheFunkyHomosapienOfficialAudio.mp3
+2022-12-27T00:56:02.477944+0300 INFO text_recognition complete from: id = 657162940 filename = content\WuTangPreservationfeatAesopRockDelTheFunkyHomosapienOfficialAudio.mp3
+2022-12-27T00:57:08.930505+0300 INFO command start from: id = 657162940
+2022-12-27T00:57:08.930505+0300 INFO command start from: id = 657162940
+2022-12-27T00:57:13.499995+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:57:13.499995+0300 INFO save photo from: id = 657162940 size = 23912 size_x = 576 size_y = 281
+2022-12-27T00:57:19.210127+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:57:19.210127+0300 INFO text_recognition complete from: id = 657162940
+2022-12-27T00:57:24.188410+0300 INFO download from: id = 657162940
+2022-12-27T00:57:24.188410+0300 INFO download from: id = 657162940
+2022-12-27T00:57:29.193899+0300 INFO text_recognition complete from: id = 657162940 filename = content\MobbDeepPartyOverOfficialAudioftBigNoyd.mp3
+2022-12-27T00:57:29.193899+0300 INFO text_recognition complete from: id = 657162940 filename = content\MobbDeepPartyOverOfficialAudioftBigNoyd.mp3
+2022-12-27T00:57:32.498531+0300 INFO text_recognition complete from: id = 657162940 filename = content\WuTangBiochemicalEquationfeatRZAMFDOOMOfficialAudio.mp3
+2022-12-27T00:57:32.498531+0300 INFO text_recognition complete from: id = 657162940 filename = content\WuTangBiochemicalEquationfeatRZAMFDOOMOfficialAudio.mp3
+2022-12-27T00:57:36.104612+0300 INFO text_recognition complete from: id = 657162940 filename = content\WuTangPreservationfeatAesopRockDelTheFunkyHomosapienOfficialAudio.mp3
+2022-12-27T00:57:36.104612+0300 INFO text_recognition complete from: id = 657162940 filename = content\WuTangPreservationfeatAesopRockDelTheFunkyHomosapienOfficialAudio.mp3
+2022-12-27T01:01:07.984472+0300 INFO command start from: id = 870691611
+2022-12-27T01:01:07.984472+0300 INFO command start from: id = 870691611
+2022-12-27T01:04:11.577631+0300 INFO command start from: id = 870691611
+2022-12-27T01:04:11.577631+0300 INFO command start from: id = 870691611
+2022-12-27T01:04:41.304597+0300 INFO command start from: id = 870691611
+2022-12-27T01:04:41.304597+0300 INFO command start from: id = 870691611
+2022-12-27T01:04:48.575493+0300 INFO command start from: id = 870691611
+2022-12-27T01:04:48.575493+0300 INFO command start from: id = 870691611
+2022-12-27T01:04:53.504859+0300 INFO save photo from: id = 870691611 size = 31925 size_x = 800 size_y = 558
+2022-12-27T01:04:53.504859+0300 INFO save photo from: id = 870691611 size = 31925 size_x = 800 size_y = 558
+2022-12-27T01:05:20.928203+0300 INFO command start from: id = 870691611
+2022-12-27T01:05:20.928203+0300 INFO command start from: id = 870691611
+2022-12-27T01:11:41.456222+0300 INFO command start from: id = 870691611
+2022-12-27T01:11:41.456222+0300 INFO command start from: id = 870691611
+2022-12-27T01:11:48.363098+0300 ERROR cannot identify image file 'content/870691611.jpg'
+2022-12-27T01:11:48.363098+0300 ERROR cannot identify image file 'content/870691611.jpg'
+2022-12-27T01:12:05.972091+0300 INFO command start from: id = 870691611
+2022-12-27T01:12:05.972091+0300 INFO command start from: id = 870691611
+2022-12-27T01:12:09.724155+0300 ERROR cannot identify image file 'content/870691611.jpg'
+2022-12-27T01:12:09.724155+0300 ERROR cannot identify image file 'content/870691611.jpg'
+2022-12-27T01:12:56.875845+0300 INFO command start from: id = 870691611
+2022-12-27T01:12:56.875845+0300 INFO command start from: id = 870691611
+2022-12-27T01:13:01.508011+0300 INFO save photo from: id = 870691611 size = 27782 size_x = 781 size_y = 473
+2022-12-27T01:13:01.508011+0300 INFO save photo from: id = 870691611 size = 27782 size_x = 781 size_y = 473
+2022-12-27T01:13:10.570287+0300 INFO text_recognition complete from: id = 870691611
+2022-12-27T01:13:10.570287+0300 INFO text_recognition complete from: id = 870691611
+2022-12-27T01:14:21.873729+0300 INFO download from: id = 870691611
+2022-12-27T01:14:21.873729+0300 INFO download from: id = 870691611
+2022-12-27T01:14:25.950067+0300 INFO text_recognition complete from: id = 870691611 filename = content\ДайтетанкМы.mp3
+2022-12-27T01:14:25.950067+0300 INFO text_recognition complete from: id = 870691611 filename = content\ДайтетанкМы.mp3
+2022-12-27T01:14:30.452117+0300 INFO text_recognition complete from: id = 870691611 filename = content\Обиды.mp3
+2022-12-27T01:14:30.452117+0300 INFO text_recognition complete from: id = 870691611 filename = content\Обиды.mp3
