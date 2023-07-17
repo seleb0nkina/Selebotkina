@@ -4,7 +4,7 @@
 
 
 config = {
-    "Token": '5741930145:AAFTu9kv1-kNXDSmpELwnZS_qCelj7kFq1I', #Токен телеграм-бота
+    "Token": '1576898969:AAFHzyLdPMMGj7m2kEbnalarujvrzT03tGo', #Токен телеграм-бота
     "JsonName": 'text.json', # Путь к файлу с текстом
     "FileSizeMax": 1024, # Ограничение по размеру файла в Кб
     "ImgXSizeMax": 1024, # Ограничение на размер изображения max по X

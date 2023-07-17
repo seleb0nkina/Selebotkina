@@ -284,3 +284,131 @@
 2022-12-27T01:14:25.950067+0300 INFO text_recognition complete from: id = 870691611 filename = content\ДайтетанкМы.mp3
 2022-12-27T01:14:30.452117+0300 INFO text_recognition complete from: id = 870691611 filename = content\Обиды.mp3
 2022-12-27T01:14:30.452117+0300 INFO text_recognition complete from: id = 870691611 filename = content\Обиды.mp3
+2023-07-17T00:49:55.645624+0300 INFO command start from: id = 657162940
+2023-07-17T00:49:55.645624+0300 INFO command start from: id = 657162940
+2023-07-17T00:50:11.544910+0300 ERROR [Errno 2] No such file or directory: 'content/657162940.jpg'
+2023-07-17T00:50:11.544910+0300 ERROR [Errno 2] No such file or directory: 'content/657162940.jpg'
+2023-07-17T00:50:30.527213+0300 ERROR [Errno 2] No such file or directory: 'content/657162940.jpg'
+2023-07-17T00:50:30.527213+0300 ERROR [Errno 2] No such file or directory: 'content/657162940.jpg'
+2023-07-17T00:52:56.992830+0300 INFO command start from: id = 657162940
+2023-07-17T00:52:56.992830+0300 INFO command start from: id = 657162940
+2023-07-17T00:53:10.796258+0300 ERROR cannot identify image file 'content/657162940.jpg'
+2023-07-17T00:53:10.796258+0300 ERROR cannot identify image file 'content/657162940.jpg'
+2023-07-17T00:59:10.695405+0300 INFO command start from: id = 657162940
+2023-07-17T00:59:10.695405+0300 INFO command start from: id = 657162940
+2023-07-17T00:59:10.698395+0300 INFO command start from: id = 657162940
+2023-07-17T00:59:10.698395+0300 INFO command start from: id = 657162940
+2023-07-17T00:59:26.733362+0300 ERROR cannot identify image file 'content/657162940.jpg'
+2023-07-17T00:59:26.733362+0300 ERROR cannot identify image file 'content/657162940.jpg'
+2023-07-17T01:02:54.531708+0300 INFO command start from: id = 657162940
+2023-07-17T01:02:54.531708+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:10.338679+0300 INFO start
+2023-07-17T01:09:10.338679+0300 INFO start
+2023-07-17T01:09:10.835352+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:10.835352+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:13.876558+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:13.876558+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:17.410969+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:17.410969+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:18.570145+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:18.570145+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:24.712075+0300 INFO command start from: id = 657162940
+2023-07-17T01:09:24.712075+0300 INFO command start from: id = 657162940
+2023-07-17T01:10:57.196246+0300 INFO start
+2023-07-17T01:10:57.196246+0300 INFO start
+2023-07-17T01:11:29.832804+0300 INFO command start from: id = 657162940
+2023-07-17T01:11:29.832804+0300 INFO command start from: id = 657162940
+2023-07-17T01:11:37.839981+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:11:37.839981+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:13:23.924291+0300 INFO command start from: id = 657162940
+2023-07-17T01:13:23.924291+0300 INFO command start from: id = 657162940
+2023-07-17T01:13:33.207570+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:13:33.207570+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:14:03.243615+0300 INFO start
+2023-07-17T01:14:03.243615+0300 INFO start
+2023-07-17T01:14:09.129740+0300 INFO command start from: id = 657162940
+2023-07-17T01:14:09.129740+0300 INFO command start from: id = 657162940
+2023-07-17T01:14:16.371045+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:14:16.371045+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:16:19.776819+0300 INFO start
+2023-07-17T01:16:19.776819+0300 INFO start
+2023-07-17T01:16:20.206668+0300 INFO command start from: id = 657162940
+2023-07-17T01:16:20.206668+0300 INFO command start from: id = 657162940
+2023-07-17T01:16:20.207667+0300 INFO command start from: id = 657162940
+2023-07-17T01:16:20.207667+0300 INFO command start from: id = 657162940
+2023-07-17T01:16:20.437562+0300 INFO command start from: id = 657162940
+2023-07-17T01:16:20.437562+0300 INFO command start from: id = 657162940
+2023-07-17T01:16:20.470983+0300 INFO command start from: id = 657162940
+2023-07-17T01:16:20.470983+0300 INFO command start from: id = 657162940
+2023-07-17T01:17:33.948314+0300 INFO start
+2023-07-17T01:17:33.948314+0300 INFO start
+2023-07-17T01:17:38.301139+0300 INFO command start from: id = 657162940
+2023-07-17T01:17:38.301139+0300 INFO command start from: id = 657162940
+2023-07-17T01:17:47.828539+0300 INFO command start from: id = 657162940
+2023-07-17T01:17:47.828539+0300 INFO command start from: id = 657162940
+2023-07-17T01:17:53.982629+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:17:53.982629+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:19:01.818668+0300 INFO start
+2023-07-17T01:19:01.818668+0300 INFO start
+2023-07-17T01:19:09.003806+0300 INFO command start from: id = 657162940
+2023-07-17T01:19:09.003806+0300 INFO command start from: id = 657162940
+2023-07-17T01:19:15.358379+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:19:15.358379+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:22:35.279506+0300 INFO start
+2023-07-17T01:22:35.279506+0300 INFO start
+2023-07-17T01:22:44.595208+0300 INFO command start from: id = 657162940
+2023-07-17T01:22:44.595208+0300 INFO command start from: id = 657162940
+2023-07-17T01:22:56.356423+0300 INFO command start from: id = 657162940
+2023-07-17T01:22:56.356423+0300 INFO command start from: id = 657162940
+2023-07-17T01:23:02.140549+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:23:02.140549+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:23:52.579019+0300 INFO start
+2023-07-17T01:23:52.579019+0300 INFO start
+2023-07-17T01:24:15.878200+0300 INFO command start from: id = 657162940
+2023-07-17T01:24:15.878200+0300 INFO command start from: id = 657162940
+2023-07-17T01:24:58.706337+0300 INFO start
+2023-07-17T01:24:58.706337+0300 INFO start
+2023-07-17T01:25:02.801619+0300 INFO command start from: id = 657162940
+2023-07-17T01:25:02.801619+0300 INFO command start from: id = 657162940
+2023-07-17T01:26:09.637400+0300 INFO start
+2023-07-17T01:26:09.637400+0300 INFO start
+2023-07-17T01:26:24.258084+0300 INFO command start from: id = 657162940
+2023-07-17T01:26:24.258084+0300 INFO command start from: id = 657162940
+2023-07-17T01:26:34.427106+0300 INFO command start from: id = 657162940
+2023-07-17T01:26:34.427106+0300 INFO command start from: id = 657162940
+2023-07-17T01:26:40.330935+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:26:40.330935+0300 INFO save photo from: id = 657162940 size = 77132 size_x = 1100 size_y = 1009
+2023-07-17T01:26:48.181443+0300 INFO save photo from: id = 657162940 size = 146285 size_x = 1280 size_y = 998
+2023-07-17T01:26:48.181443+0300 INFO save photo from: id = 657162940 size = 146285 size_x = 1280 size_y = 998
+2023-07-17T01:26:58.923644+0300 INFO save photo from: id = 657162940 size = 18187 size_x = 1087 size_y = 299
+2023-07-17T01:26:58.923644+0300 INFO save photo from: id = 657162940 size = 18187 size_x = 1087 size_y = 299
+2023-07-17T01:27:17.860930+0300 INFO save photo from: id = 657162940 size = 9789 size_x = 512 size_y = 275
+2023-07-17T01:27:17.860930+0300 INFO save photo from: id = 657162940 size = 9789 size_x = 512 size_y = 275
+2023-07-17T01:27:32.510548+0300 INFO text_recognition complete from: id = 657162940
+2023-07-17T01:27:32.510548+0300 INFO text_recognition complete from: id = 657162940
+2023-07-17T01:27:36.423210+0300 INFO download from: id = 657162940
+2023-07-17T01:27:36.423210+0300 INFO download from: id = 657162940
+2023-07-17T01:28:00.577229+0300 INFO save photo from: id = 657162940 size = 36162 size_x = 720 size_y = 569
+2023-07-17T01:28:00.577229+0300 INFO save photo from: id = 657162940 size = 36162 size_x = 720 size_y = 569
+2023-07-17T01:28:13.867566+0300 INFO save photo from: id = 657162940 size = 21957 size_x = 720 size_y = 367
+2023-07-17T01:28:13.867566+0300 INFO save photo from: id = 657162940 size = 21957 size_x = 720 size_y = 367
+2023-07-17T01:31:45.640998+0300 INFO start
+2023-07-17T01:31:45.640998+0300 INFO start
+2023-07-17T01:31:46.302007+0300 INFO command start from: id = 657162940
+2023-07-17T01:31:46.302007+0300 INFO command start from: id = 657162940
+2023-07-17T01:31:58.050074+0300 INFO save photo from: id = 657162940 size = 21987 size_x = 720 size_y = 367
+2023-07-17T01:31:58.050074+0300 INFO save photo from: id = 657162940 size = 21987 size_x = 720 size_y = 367
+2023-07-17T01:32:36.057604+0300 INFO text_recognition complete from: id = 657162940
+2023-07-17T01:32:36.057604+0300 INFO text_recognition complete from: id = 657162940
+2023-07-17T01:32:40.804513+0300 INFO download from: id = 657162940
+2023-07-17T01:32:40.804513+0300 INFO download from: id = 657162940
+2023-07-17T01:32:48.840129+0300 INFO text_recognition complete from: id = 657162940 filename = content\Крутая.mp3
+2023-07-17T01:32:48.840129+0300 INFO text_recognition complete from: id = 657162940 filename = content\Крутая.mp3
+2023-07-17T01:32:59.731313+0300 INFO text_recognition complete from: id = 657162940 filename = content\IGotLove.mp3
+2023-07-17T01:32:59.731313+0300 INFO text_recognition complete from: id = 657162940 filename = content\IGotLove.mp3
+2023-07-17T01:33:06.026741+0300 INFO text_recognition complete from: id = 657162940 filename = content\OnAir.mp3
+2023-07-17T01:33:06.026741+0300 INFO text_recognition complete from: id = 657162940 filename = content\OnAir.mp3
+2023-07-17T14:13:50.765003+0300 INFO start
+2023-07-17T14:13:50.765003+0300 INFO start
+2023-07-17T14:14:46.504354+0300 INFO command start from: id = 657162940
+2023-07-17T14:14:46.504354+0300 INFO command start from: id = 657162940

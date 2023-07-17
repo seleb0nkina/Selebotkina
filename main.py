@@ -45,25 +45,51 @@ def save_photo(bot, message):
     try:
         file_info = bot.get_file(message.photo[len(message.photo) - 1].file_id)
         if (file_info.file_size)/1024 > config["FileSizeMax"]:
+            bot.send_message(
+                chat_id=message.chat.id,
+                text=f"{text('file_to_big')} {str(img_size_x)}x{str(img_size_y)}   {str(file_info.file_size)} MB",
+                reply_markup=keyboard_main_menu,
+                parse_mode="HTML",
+            )
+
+            database.update(message.chat.id, "step", "doc")
+
             return False
         file_name = str(message.chat.id) + ".jpg"
         downloaded_file = bot.download_file(file_info.file_path)
         src = 'content/' + file_name
         with open(src, 'wb') as new_file:
             new_file.write(downloaded_file)
-            img_size_x = (Image.open(src).size)[0] # размер изображения по X
-            img_size_y = (Image.open(src).size)[1]  # размер изображения по Y
+            img_size_x = (Image.open(src, 'r').size)[0] # размер изображения по X
+            img_size_y = (Image.open(src, 'r').size)[1]  # размер изображения по Y
             lg.info("save photo from: id = " + str(message.chat.id) +
                     " size = " + str(file_info.file_size) +
                     " size_x = " + str(img_size_x) +
                     " size_y = " + str(img_size_y))
             if not((config["ImgXSizeMax"] > img_size_x > config["ImgXSizeMin"])
                     and (config["ImgYSizeMax"] > img_size_y > config["ImgYSizeMin"])):
+                bot.send_message(
+                    chat_id=message.chat.id,
+                    text=f"{text('file_to_big')} {str(img_size_x)}x{str(img_size_y)}   {str(file_info.file_size)} MB",
+                    reply_markup=keyboard_main_menu,
+                    parse_mode="HTML",
+                )
+
+                database.update(message.chat.id, "step", "doc")
                 return False
+
 
         return True
 
     except Exception as e:
+        bot.send_message(
+            chat_id=message.chat.id,
+            text=f"{text('file_to_big')} {str(img_size_x)}x{str(img_size_y)}   {str(file_info.file_size)} MB",
+            reply_markup=keyboard_main_menu,
+            parse_mode="HTML",
+        )
+
+        database.update(message.chat.id, "step", "doc")
         lg.error(e)
         return False
 
@@ -202,13 +228,14 @@ def handle_docs_photo(message):
     if database.read(message.chat.id, "step") == "doc": # прием скрина
         database.update(message.chat.id, "step", "process")
         if save_photo(bot, message):
+            print(1)
             bot.send_message(
                 chat_id=message.chat.id,
                 text=text("save_success"),
                 parse_mode="HTML",
             )
-            file_path = "content/"+str(message.chat.id) + ".jpg"
-            text_file_name = "content/"+str(message.chat.id) + ".txt"
+            file_path = "content//"+str(message.chat.id) + ".jpg"
+            text_file_name = "content//"+str(message.chat.id) + ".txt"
             text_recognition(file_path=file_path, text_file_name=text_file_name)
             lg.info("text_recognition complete from: id = " + str(message.chat.id))
             bot.send_message(
@@ -218,13 +245,7 @@ def handle_docs_photo(message):
                 parse_mode="HTML",
             )
             database.update(message.chat.id, "step", "start")
-        else:
-            bot.send_message(
-                chat_id=message.chat.id,
-                text=text("file_to_big"),
-                reply_markup=keyboard_main_menu,
-                parse_mode="HTML",
-            )
-            database.update(message.chat.id, "step", "start")
 
+
+lg.info('start')
 bot.infinity_polling(timeout=10, long_polling_timeout=5)
